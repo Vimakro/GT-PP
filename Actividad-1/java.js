@@ -1,4 +1,4 @@
-/* Actividad 3 - Parte 1 */
+/* Matematica Simple */
 /* 
 function triplicador(x){
     console.log(x*3);
@@ -23,7 +23,7 @@ function resta(x, y){
 
 console.log(resta(division(multiplicador(triplicador(5), 12), 12), 3)); */
 
-/* Actividad 3 - Parte 2 */
+/* contarDeA_n */
 /* 
 function contarDeA_n(contar_hasta, contar_de_a){
     for (let i = 0; i <= contar_hasta; i+=contar_de_a){
@@ -33,7 +33,7 @@ function contarDeA_n(contar_hasta, contar_de_a){
 }
 contarDeA_n(parseInt(prompt('Hasta que numero debe contar')), parseInt(prompt('De a cuantos numeros debe contar')) ); */
 
-/* Actividad 3 - Parte 3 */
+/* Desafío FizzBuzz II */
 /* 
 function FizzBuzzII(palabra1 = "", palabra2 = ""){
     let numeros = [""];
